@@ -25,7 +25,7 @@ Welcome to the Employee Management System App! This application is designed to h
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    
    ```
-   git clone https://github.com/your-username/employee-mg-sys-app.git
+   git clone https://github.com/Moses-Adeyemi/employee-mg-sys-app.git
    ```
 
 2. **Dependencies**: Navigate to the project directory and install the necessary dependencies:
@@ -44,21 +44,5 @@ Welcome to the Employee Management System App! This application is designed to h
    ```
    npm start
    ```
-
-6. **Access the App**: Open your web browser and navigate to `http://localhost:3000` to access the app.
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to the development of this app, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## Support
-
-If you encounter any issues, have questions, or need assistance, please contact our support team at support@example.com.
-
-## License
-
-This app is distributed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the app according to the terms of the license.
-
----
 
 Thank you for using the Employee Management System App. We hope this app enhances your employee management experience and helps you streamline your HR processes. If you have any feedback or suggestions, please let us know!
