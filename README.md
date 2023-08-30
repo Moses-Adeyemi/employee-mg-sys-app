@@ -6,20 +6,6 @@ Welcome to the Employee Management System App! This application is designed to h
 
 - **Employee Information**: Store and manage essential employee details such as names, contact information, positions, departments, and more.
 
-- **Attendance Tracking**: Keep track of employee attendance, including dates of absence, leave balances, and attendance history.
-
-- **Leave Management**: Allow employees to request leaves through the app, and enable supervisors to approve or reject leave requests.
-
-- **Performance Reviews**: Schedule and conduct employee performance reviews, document feedback, and set goals for professional development.
-
-- **Salary and Compensation**: Maintain records of employee salaries, bonuses, and benefits. Generate salary slips and reports for payroll processing.
-
-- **Document Repository**: Store and organize important documents such as contracts, certifications, and other relevant files securely within the app.
-
-- **Notifications**: Send notifications to employees for announcements, upcoming events, and important updates.
-
-- **User Roles**: Implement role-based access control to ensure that only authorized personnel can access sensitive employee information.
-
 ## Installation and Setup
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
