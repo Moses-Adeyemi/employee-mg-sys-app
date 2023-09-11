@@ -6,17 +6,8 @@ const departmentController = require('../controllers/departmentController');  //
 departmentRoutes.post('/department', departmentController.createDepartment);  
 
 // Get all staff members
+departmentRoutes.get('/department', departmentController.departments);  
  
-
-// Get staff member by ID
-
-
-
-
-// Update staff member by ID
-
-
-// Delete staff member by ID
 
 
 
